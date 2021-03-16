@@ -5493,7 +5493,7 @@
       }
     },
     {
-      "name": "COKEMV影视(已修复)",
+      "name": "COKEMV影视",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -5518,14 +5518,22 @@
             "电影",
             "电视剧",
             "动漫",
-            "综艺"
+            "综艺",
+            "国产剧",
+            "香港剧",
+            "韩剧",
+            "美剧"
           ],
           "cate": [
             "5",
             "1",
             "2",
             "4",
-            "3"
+            "3",
+            "13",
+            "14",
+            "15",
+            "16"       
           ],
           "page": "1"
         },
