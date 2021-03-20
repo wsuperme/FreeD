@@ -177,7 +177,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.juztv.com/vodsearch/-------------/?wd={kw}&submit",
+        "search_url": "http://pianku.cf/Moviesearch/-------------.html?wd={kw}",
         "nav_url": "http://pianku.cf/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.hanmiys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "片库",
@@ -229,7 +229,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.sBox.wrap.row",
+            "mainCss": "div.bd",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -246,7 +246,7 @@
           "nav": {
             "isKWInUrl": false,
             "isWebPlay": false,
-            "descAttr": "",
+            "descAttr": "#text",
             "descCss": "span.bottom2",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
@@ -254,7 +254,7 @@
             "imgAttr": "src",
             "imgCss": "img",
             "imgIndex": 0,
-            "isDescAttr": false,
+            "isDescAttr": true,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
@@ -276,19 +276,19 @@
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
+            "imgAttr": "src",
+            "imgCss": "img",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist__media.col-pd.clearfix",
+            "mainCss": "div.sr_lists",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li",
+            "searchListCss": "dt",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -331,9 +331,6 @@
         }
       }
     },
-     
-     
-     
       {
       "name": "奈菲影视",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
