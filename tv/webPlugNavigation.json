@@ -671,7 +671,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.ak1080.com/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.ak1080.com/vodshow/navCate--hits------navPage---.html",
+        "nav_url": "https://www.ak1080.com/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.ak1080.com/index.php/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "1080影视",
         "kw": "wd",
