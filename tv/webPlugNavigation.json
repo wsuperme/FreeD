@@ -498,7 +498,7 @@
       }
     },
     {
-      "name": "奈飞影视(已修复)",
+      "name": "奈飞星影视",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -506,9 +506,9 @@
       "subMobileTitle": "高清速度快有筛选",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.nfstar.net/vodsearch/-------------/?wd={kw}",
-        "nav_url": "https://www.nfstar.net/vodtype/navCate-navPage.html",
-        "cate_url": "https://www.nfmovies.com/search.php?page=catePage&searchtype=5&tid=cateNav&area=cateArea&year=cateYear",
+        "search_url": "https://www.nfxhd.com/vodsearch/-------------/?wd={kw}",
+        "nav_url": "https://www.nfxhd.com/vodtype/navCate-navPage.html",
+        "cate_url": "https://www.nfxhd.com/search.php?page=catePage&searchtype=5&tid=cateNav&area=cateArea&year=cateYear",
         "web_name": "奈飞影视",
         "kw": "wd",
         "params": [
