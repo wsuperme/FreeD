@@ -662,7 +662,7 @@
       }
     },
       {
-      "name": "1080",
+      "name": "1080net",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -753,7 +753,7 @@
             "isImgAttr": true,
             "isNameAttr": false,
             "isUrlAttr": true,
-            "mainCss": "div.mo-cols-rows.mo-paxs-5px.mo-pamd-10px",
+            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round",
             "mainListIndex": 0,
             "nameAttr": "",
             "nameCss": "a.mo-situ-name.mo-fsxs-14px.mo-coxs-center.mo-comd-left.mo-wrap-arow",
