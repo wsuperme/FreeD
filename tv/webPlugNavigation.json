@@ -1,6 +1,5 @@
 {
   "data": [
-   
 {
       "name": "COKEMV影视",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
@@ -754,12 +753,12 @@
             "isImgAttr": true,
             "isNameAttr": false,
             "isUrlAttr": true,
-            "mainCss": "ul.mo-cols-rows",
+            "mainCss": "div.mo-cols-rows.mo-paxs-5px.mo-pamd-10px",
             "mainListIndex": 0,
             "nameAttr": "",
             "nameCss": "a.mo-situ-name.mo-fsxs-14px.mo-coxs-center.mo-comd-left.mo-wrap-arow",
             "nameIndex": 0,
-            "searchListCss": "li",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a.mo-situ-pics.mo-situ-lazy.mo-lazy-color.mo-bord-round.mo-cols-rows.mo-lazy-highs.mo-byxs-2by3",
             "urlIndex": 0
