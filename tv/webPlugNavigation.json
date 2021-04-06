@@ -758,7 +758,7 @@
             "nameAttr": "",
             "nameCss": "a.mo-situ-name.mo-fsxs-14px.mo-coxs-center.mo-comd-left.mo-wrap-arow",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "ul.mo-cols-rows > li",
             "urlAttr": "href",
             "urlCss": "a.mo-situ-pics.mo-situ-lazy.mo-lazy-color.mo-bord-round.mo-cols-rows.mo-lazy-highs.mo-byxs-2by3",
             "urlIndex": 0
