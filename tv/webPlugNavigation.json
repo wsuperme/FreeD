@@ -3567,8 +3567,8 @@
       "subMobileTitle": "高清无筛选",
       "click": true,
       "webPlus": {
-        "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
+        "search_url": "http://www.9rmb.net/search?wd={kw}",
+        "nav_url": "http://www.9rmb.net/type/navCate/navPage.html",
         "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
         "web_name": "94神马影视",
         "kw": "wd",
