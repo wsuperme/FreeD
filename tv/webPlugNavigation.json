@@ -724,7 +724,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.mo-sort-head.mo-cols-rows.mo-paxs-5px.mo-pamd-10px",
+            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round",
             "mainIndex": 0,
             "regIndexList": [
               0
