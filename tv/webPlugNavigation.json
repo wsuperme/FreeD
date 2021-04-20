@@ -9,7 +9,7 @@
       "subMobileTitle": "高清速度快有筛选",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.muguangys.com/vodsearch2/-------------.html?wd={kw}",
+        "search_url": "https://fantuan.tv/vodsearch.html?wd={kw}",
         "nav_url": "https://fantuan.tv/vodtype/navCate-navPage.html",
         "cate_url": "https://www.muguangys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "饭团TV",
