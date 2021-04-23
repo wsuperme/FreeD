@@ -2745,7 +2745,7 @@
       }
     },
     {
-      "name": "泡饭影视(新增无法搜索)",
+      "name": "泡饭影视",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -2753,9 +2753,9 @@
       "subMobileTitle": "高清速度快无筛选",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
-        "nav_url": "https://www.paofans.com/show/navCate--------navPage---.html",
-        "cate_url": "https://www.paofans.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "search_url": "https://www.paofans.tv/show/-------------.html?wd={kw}",
+        "nav_url": "https://paofans.tv/pianku-navCate--------navPage---/",
+        "cate_url": "https://www.paofans.tv/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "蓝光高清",
         "kw": "wd",
         "params": [
@@ -2766,14 +2766,12 @@
         ],
         "navHtml": {
           "name": [
-            "抖音电影",
             "电影",
             "电视剧",
             "综艺",
             "动漫"
           ],
           "cate": [
-            "36",
             "1",
             "2",
             "3",
@@ -2795,13 +2793,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul > li",
+            "listCss": "a",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.hl-list-wrap",
+            "mainCss": "div.scroll-content",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2819,25 +2817,25 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
+            "descCss": "div.module-item-text",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "a",
+            "imgCss": "div.module-item-pic > img",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.hl-vod-list.clearfix",
+            "mainCss": "div.module-items",
             "mainListIndex": 0,
             "nameAttr": "title",
-            "nameCss": "a",
+            "nameCss": "div.module-item-style.video-name > a",
             "nameIndex": 0,
-            "searchListCss": "li",
+            "searchListCss": "div > div.module-item-cover",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "div.module-item-style.video-name > a",
             "urlIndex": 0
           },
           "search": {
