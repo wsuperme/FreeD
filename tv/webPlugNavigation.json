@@ -989,8 +989,8 @@
       "subMobileTitle": "质量非常之高",
       "click": true,
       "webPlus": {
-        "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://www.siguyy.com/type/navCate-navPage.html",
+        "search_url": "https://www.siguyy.com/search/-------------.html?wd={kw}&submit=",
+        "nav_url": "https://www.siguyy.com/show/navCate-------navPage---.html",
         "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "思古影视",
         "kw": "wd",
@@ -1012,14 +1012,14 @@
             "美剧"
           ],
           "cate": [
-            "m",
-            "tv",
-            "4",
-            "3",
-            "13",
-            "14",
-            "15",
-            "16"       
+            "m-",
+            "tv-",
+            "va-",
+            "ct-",
+            "tv-大陆",
+            "tv-香港",
+            "tv-韩国",
+            "tv-美国"       
           ],
           "page": "1"
         },
@@ -1097,7 +1097,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul#searchList",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
