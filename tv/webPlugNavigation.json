@@ -177,7 +177,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://tv.ci/index.php/vod/search.html?wd={kw}&submit",
-        "nav_url": "https://tv.ci/index.php/vod/show/id/navCate/page/navPage.html",
+        "nav_url": "https://tv.ci/type/navCate-navPage.html",
         "cate_url": "https://www.hanmiys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "大师兄",
         "kw": "wd",
