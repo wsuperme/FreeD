@@ -6207,6 +6207,15 @@
           "video": {}
         }
       }
+    },
+      {
+      "name": "duboku",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "https://e.duboku.fun/",
+      "webOpen": true,
+      "click": true
     }
+    
   ]
 }
