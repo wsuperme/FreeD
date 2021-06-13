@@ -3185,6 +3185,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36",
       "click": true,
       "webPlus": {
         "search_url": "https://www.juztv.com/vodsearch/-------------/?wd={kw}&submit",
@@ -3342,6 +3343,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36",
       "click": true,
       "webPlus": {
         "search_url": "https://www.juztv.com/vodsearch/-------------/?wd={kw}&submit",
