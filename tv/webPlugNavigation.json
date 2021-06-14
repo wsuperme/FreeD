@@ -9,8 +9,8 @@
       "subMobileTitle": "最低720P",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.subaibai.com/grabble?q={kw}",
-        "nav_url": "https://www.subaibai.com/movie_bt/movie_bt_series/navCate/page/navPage",
+        "search_url": "https://www.subaibai.com/?s={kw}",
+        "nav_url": "https://www.subaibai.com/movie_bt_series/navCate/page/navPage",
         "cate_url": "",
         "web_name": "素白白影视",
         "kw": "wd",
@@ -4719,6 +4719,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "click": true,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
