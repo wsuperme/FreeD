@@ -11,7 +11,7 @@
       "webPlus": {
         "search_url": "https://www.subaibai.com/grabble?q={kw}",
         "nav_url": "https://www.subaibai.com/movie_bt/movie_bt_series/navCate/page/navPage",
-        "cate_url": "https://www.k1080.net/index.php/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "cate_url": "",
         "web_name": "素白白影视",
         "kw": "wd",
         "params": [
@@ -143,9 +143,9 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://www.9ekk.com/vod/search.html?wd={kw}&submit=",
-        "nav_url": "http://www.9ekk.com/vodshow/navCate/page/navPage",
-        "cate_url": "http://9ekk.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
+        "search_url": "http://www.9ehao.com/vod/search.html?wd={kw}&submit=",
+        "nav_url": "http://www.9ehao.com/vodshow/navCate/page/navPage",
+        "cate_url": "http://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
         "web_name": "9亿看看",
         "kw": "wd",
         "params": [
