@@ -13,7 +13,7 @@
         "nav_url": "https://www.subaibai.com/movie_bt_series/navCate/page/navPage",
         "cate_url": "",
         "web_name": "素白白影视",
-        "kw": "wd",
+        "kw": "s",
         "params": [
           {
             "key": "key",
@@ -45,14 +45,7 @@
           ],
           "page": "1"
         },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "",
-          "year": "",
-          "area": ""
-        },
+        "cateHtml": {},
         "html": {
           "episodes": {
             "hasUrlPrefix": true,
@@ -94,12 +87,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.mrb",
+            "mainCss": "div.bt_img.mi_ne_kd.mrb > ul",
             "mainListIndex": 0,
             "nameAttr": "alt",
             "nameCss": "img",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -118,12 +111,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.search_list",
+            "mainCss": "div.bt_img.mi_ne_kd.search_list > ul",
             "mainListIndex": 0,
             "nameAttr": "alt",
             "nameCss": "a > img.thumb.lazy",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -891,7 +884,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "click": true,
       "webPlus": {
-        "search_url": "https://tv.ci/ss/hh--.html?wd={kw}&submit=?wd=",
+        "search_url": "https://tv.ci/ss/hh--.html?wd={kw}&submit=",
         "nav_url": "https://tv.ci/type/navCate-navPage.html",
         "cate_url": "https://www.hanmiys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "大师兄",
