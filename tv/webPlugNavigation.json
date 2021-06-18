@@ -5835,6 +5835,15 @@
       }
     },
       {
+      "name": "1090",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36",
+      "webUrl": "http://1090ys2.com/",
+      "webOpen": true,
+      "click": true
+    },
+      {
       "name": "duboku",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "onenews",
