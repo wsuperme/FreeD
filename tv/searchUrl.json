@@ -9,6 +9,13 @@
     },
     {
       "id": 1,
+      "name": "taopian",
+      "url": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
+      "click": true
+    },
+    {
+      "id": 1,
       "name": "fantuan",
       "url": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/",
       "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
