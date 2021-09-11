@@ -14,6 +14,13 @@
       "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
       "click": true
     },
+       {
+      "id": 1,
+      "name": "wuji",
+      "url": "http://wujiys.com/api.php/provide/vod/at/xml",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
+      "click": true
+    },
     {
       "id": 1,
       "name": "fantuan",
