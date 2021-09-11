@@ -1609,7 +1609,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
-        "nav_url": "https://www.nfmovies.com/list/navCate-navPage.html",
+        "nav_url": "https://www.nfmovies.com/list/navCate-navPage",
         "cate_url": "https://www.nfmovies.com/search.php?page=catePage&searchtype=5&tid=cateNav&area=cateArea&year=cateYear",
         "web_name": "奈菲影视",
         "kw": "wd",
@@ -1658,11 +1658,11 @@
             "isRegNeedDecoder": false,
             "listCss": "ul > li",
             "isMultiList": false,
-            "listCssMulti": "ul.nav.nav-tabs.active",
+            "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.tab-pane.fade.in.clearfix",
+            "mainCss": "div.tab-content.myui-panel_bd",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -1696,7 +1696,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li",
+            "searchListCss": "li > div",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
