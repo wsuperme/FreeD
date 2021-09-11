@@ -1765,7 +1765,7 @@
       }
     },
     {
-      "name": "思古",
+      "name": "思古new",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -1774,7 +1774,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.siguyy.com/search/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.siguyy.com/show/navCate-------navPage---.html",
+        "nav_url": "http://cvcv.tv/index.php/vod/type/id/navCate/page/navPage.html",
         "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "思古影视",
         "kw": "wd",
@@ -1796,8 +1796,8 @@
             "美剧"
           ],
           "cate": [
-            "m-",
-            "tv-",
+            "1",
+            "6",
             "va-",
             "ct-",
             "tv-大陆",
@@ -1827,7 +1827,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.col-lg-wide-8.col-xs-1.padding-0",
+            "mainCss": "div.tab-content.myui-panel_bd",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -1856,7 +1856,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainCss": "ul.myui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
