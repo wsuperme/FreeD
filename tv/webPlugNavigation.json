@@ -1939,9 +1939,9 @@
       "subMobileTitle": "质量非常之高",
       "click": true,
       "webPlus": {
-        "search_url": "https://cokemv.co/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://cokemv.co/vodtype/navCate-navPage.html",
-        "cate_url": "https://cokemv.co/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
+        "search_url": "https://cokemv.me/vodsearch/-------------.html?wd={kw}",
+        "nav_url": "https://cokemv.me/vodtype/navCate-navPage.html",
+        "cate_url": "https://cokemv.me/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "COKEMV影视",
         "kw": "wd",
         "params": [
