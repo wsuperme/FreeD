@@ -123,6 +123,130 @@
       }
     },
     {
+      "name": "长资源",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "最低720P(菜单键或上下键选集)",
+      "subMobileTitle": "最低720P",
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.qianoo.cn/?s={kw}",
+        "nav_url": "https://www.qianoo.cn/navCate/page/navPage",
+        "cate_url": "https://www.k1080.net/index.php/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "长资源",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "最新电影",
+            "国产剧",
+            "电视剧",
+            "欧美剧",
+            "韩剧"
+          ],
+          "cate": [
+            "zuixindianying",
+            "gcj",
+            "dsj",
+            "meijutt",
+            "hanjutv"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "",
+          "year": "",
+          "area": ""
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": true,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "a",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.paly_list_btn",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.qb",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.bt_img.mi_ne_kd.mrb",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img",
+            "nameIndex": 0,
+            "searchListCss": "ul > li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.qb",
+            "descIndex": 0,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.bt_img.mi_ne_kd.search_list",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img",
+            "nameIndex": 0,
+            "searchListCss": "ul > li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {}
+        }
+      }
+    },
+    {
       "name": "看一看(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
@@ -505,13 +629,13 @@
       "subMobileTitle": "清晰1080P/4K最高60帧",
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36",
       "ads": "weizhenwx",
-      "webUrl": "https://www.9ehao.com",
+      "webUrl": "https://www.9egood.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
-        "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage",
-        "cate_url": "https://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
+        "search_url": "https://www.9egood.com/vod/search.html?wd={kw}&submit=",
+        "nav_url": "https://www.9egood.com/vodshow/navCate/page/navPage",
+        "cate_url": "https://www.9egood.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
         "web_name": "9亿看看",
         "kw": "wd",
         "params": [
@@ -5918,128 +6042,7 @@
         }
       }
     },
-     {
-      "name": "长资源",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
-      "type": "webPlug",
-      "subTitle": "最低720P(菜单键或上下键选集)",
-      "subMobileTitle": "最低720P",
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.qianoo.cn/?s={kw}",
-        "nav_url": "https://www.qianoo.cn/navCate/page/navPage",
-        "cate_url": "https://www.k1080.net/index.php/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "长资源",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "最新电影",
-            "电视剧",
-            "欧美剧",
-            "韩剧"
-          ],
-          "cate": [
-            "zuixindianying",
-            "dsj",
-            "meijutt",
-            "hanjutv"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "",
-          "year": "",
-          "area": ""
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": true,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "a",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.paly_list_btn",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.qb",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.mrb",
-            "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "img",
-            "nameIndex": 0,
-            "searchListCss": "ul > li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.qb",
-            "descIndex": 0,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.search_list",
-            "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "img",
-            "nameIndex": 0,
-            "searchListCss": "ul > li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {}
-        }
-      }
-    },
+     
        {
       "name": "10902",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
