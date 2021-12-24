@@ -982,19 +982,21 @@
         }
       }
     },
-   {
-      "name": "ifree",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+    {
+      "name": "天空影视",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subTitle": "清晰1080P/4K最高60帧",
+      "subMobileTitle": "清晰1080P/4K最高60帧",
+      "ads": "",
+      "webUrl": "https://www.tkys.tv/",
+      "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.ifreefans.com/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.ifreefans.com/vodshow/navCate--------navPage---.html",
-        "cate_url": "https://www.hanmiys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "ifree",
+        "search_url": "https://www.tkys.tv/vodsearch/-------------.html?wd={kw}&submit=",
+        "nav_url": "https://www.tkys.tv/vodtype/navCate-navPage.html",
+        "cate_url": "",
+        "web_name": "影视工厂",
         "kw": "wd",
         "params": [
           {
@@ -1005,32 +1007,23 @@
         "navHtml": {
           "name": [
             "电影",
-            "电视剧",
-            "综艺",
-            "动漫",
+            "连续剧",
             "国产剧",
-            "韩剧",
+            "港台剧",
+            "日韩剧",
             "欧美剧"
           ],
           "cate": [
             "1",
             "2",
-            "3",
-            "4",
             "13",
             "15",
-            "16"
+            "44",
+            "45"
           ],
           "page": "1"
         },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
-          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
-          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
-        },
+        "cateHtml": {},
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
@@ -1043,7 +1036,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div#tagContent",
+            "mainCss": "div.tab-content.myui-panel_bd",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -1061,23 +1054,23 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pack-prb.hidden",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "div.bj.eclazy",
+            "imgCss": "a",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.vodlist.hotgrow",
+            "mainCss": "ul.myui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -1086,23 +1079,23 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pack-prb",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "div.bj.eclazy",
+            "imgCss": "a",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.ec-search",
+            "mainCss": "ul#searchList.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
