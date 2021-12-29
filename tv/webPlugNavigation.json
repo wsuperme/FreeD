@@ -871,13 +871,13 @@
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
       "ads": "",
-      "webUrl": "http://www.9rmb.com",
+      "webUrl": "https://www.jiujiukanpian.com",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
-        "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
+        "search_url": "https://www.jiujiukanpian.com/search?wd={kw}",
+        "nav_url": "https://www.jiujiukanpian.com/type/navCate/navPage.html",
+        "cate_url": "https://www.jiujiukanpian.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
         "web_name": "94神马",
         "kw": "wd",
         "params": [
@@ -896,8 +896,8 @@
           "cate": [
             "1",
             "2",
-            "7",
-            "4"
+            "4",
+            "3"
           ],
           "page": "1"
         },
