@@ -1,6 +1,168 @@
 {
   "data": [
     {
+      "name": "麦豆TV",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "最低720P(菜单键或上下键选集)",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36",
+      "subMobileTitle": "最低720P",
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.mdoutv.com/search/{kw}/",
+        "nav_url": "https://www.mdoutv.com/movie_bt_series/navCate/page/navPage/",
+        "cate_url": "https://www.k1080.net/index.php/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "麦豆TV",
+        "search":true,
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "国产剧",
+            "港台",
+            "欧美",
+            "韩剧",
+            "电影",
+            "综艺"
+          ],
+          "cate": [
+            "guocanju",
+            "gangtai",
+            "en",
+            "hanju",
+            "movie",
+            "zongyi"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "",
+          "year": "",
+          "area": ""
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": true,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "a",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.paly_list_btn",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "div.jidi > span",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "a > img.thumb.lazy",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.bt_img.mi_ne_kd.mrb",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img",
+            "nameIndex": 0,
+            "searchListCss": "ul > li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.qb",
+            "descIndex": 0,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.bt_img.mi_ne_kd.search_list",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img",
+            "nameIndex": 0,
+            "searchListCss": "ul > li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+    {
             "name":"久久看片(规则)",
             "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
             "type":"webPlug",
@@ -5750,164 +5912,7 @@
     },
     
     
-     {
-      "name": "麦豆TV",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
-      "type": "webPlug",
-      "subTitle": "最低720P(菜单键或上下键选集)",
-      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36",
-      "subMobileTitle": "最低720P",
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.mdoutv.com/search/{kw}/",
-        "nav_url": "https://www.mdoutv.com/movie_bt_series/navCate/page/navPage/",
-        "cate_url": "https://www.k1080.net/index.php/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "麦豆TV",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "剧集",
-            "电影",
-            "动漫",
-            "综艺"
-          ],
-          "cate": [
-            "tv",
-            "movie",
-            "movie",
-            "ac",
-            "zongyi"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "",
-          "year": "",
-          "area": ""
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": true,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "a",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.paly_list_btn",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "div.jidi > span",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "a > img.thumb.lazy",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.mrb",
-            "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "img",
-            "nameIndex": 0,
-            "searchListCss": "ul > li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.qb",
-            "descIndex": 0,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.search_list",
-            "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "img",
-            "nameIndex": 0,
-            "searchListCss": "ul > li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {
-            "episodesListCss": "",
-            "episodesMainCss": "",
-            "episodesMainIndex": 0,
-            "hasEpisodes": false,
-            "hasUrlPrefix": false,
-            "iframeAttr": "src",
-            "iframeIndex": 0,
-            "isFrame": true,
-            "isFrameProcess": false,
-            "isItemAttr": false,
-            "isNameAttr": false,
-            "isReg": true,
-            "isUrlAttr": false,
-            "itemAttr": "",
-            "itemCss": "script",
-            "itemIndex": 2,
-            "mainCss": "body",
-            "mainIndex": 0,
-            "nameAttr": "",
-            "nameCss": "",
-            "nameIndex": 0,
-            "regIndex": 0,
-            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
-            "title": "",
-            "urlAttr": "",
-            "urlCss": "",
-            "urlIndex": 0,
-            "videoCss": "",
-            "videoIndex": 1,
-            "isVideoUrlAttr": true,
-            "videoUrlAttr": "",
-            "isFromWebView": false,
-            "js": ""
-          }
-        }
-      }
-    },
+     
     {
       "name": "fenggou",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
