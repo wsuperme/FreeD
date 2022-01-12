@@ -124,41 +124,7 @@
             "urlCss": "a",
             "urlIndex": 0
           },
-          "video": {
-            "episodesListCss": "",
-            "episodesMainCss": "",
-            "episodesMainIndex": 0,
-            "hasEpisodes": false,
-            "hasUrlPrefix": false,
-            "iframeAttr": "src",
-            "iframeIndex": 0,
-            "isFrame": true,
-            "isFrameProcess": false,
-            "isItemAttr": false,
-            "isNameAttr": false,
-            "isReg": true,
-            "isUrlAttr": false,
-            "itemAttr": "",
-            "itemCss": "script",
-            "itemIndex": 2,
-            "mainCss": "body",
-            "mainIndex": 0,
-            "nameAttr": "",
-            "nameCss": "",
-            "nameIndex": 0,
-            "regIndex": 0,
-            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
-            "title": "",
-            "urlAttr": "",
-            "urlCss": "",
-            "urlIndex": 0,
-            "videoCss": "",
-            "videoIndex": 1,
-            "isVideoUrlAttr": true,
-            "videoUrlAttr": "",
-            "isFromWebView": false,
-            "js": ""
-          }
+          "video": {}
         }
       }
     },
@@ -383,6 +349,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.qianoo.cn/?s={kw}",
+        "search":true,
         "nav_url": "https://www.qianoo.cn/navCate/page/navPage",
         "cate_url": "https://www.k1080.net/index.php/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "长资源",
