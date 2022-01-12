@@ -2395,9 +2395,9 @@
       "subMobileTitle": "质量非常之高",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.siguyy.com/search/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://cvcv.tv/vodtype/navCate-navPage.html",
-        "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
+        "search_url": "https://www.siguyy.net/search/-------------.html?wd={kw}&submit=",
+        "nav_url": "https://www.siguyy.net/vodtype/navCate-navPage.html",
+        "cate_url": "https://www.siguyy.net/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "思古影视new",
         "kw": "wd",
         "params": [
@@ -2410,7 +2410,6 @@
           "name": [
             "电影",
             "电视剧",
-            "动漫",
             "综艺",
             "国产剧",
             "香港剧",
@@ -2418,16 +2417,15 @@
             "美剧"
           ],
           "cate": [
-            "1",
-            "6",
-            "va-",
-            "ct-",
+            "m",
+            "tv",
+            "va",
             "tv-大陆",
             "tv-香港",
             "tv-韩国",
             "tv-美国"       
           ],
-          "page": "2"
+          "page": "1"
         },
         "cateHtml": {
           "isCate": false,
