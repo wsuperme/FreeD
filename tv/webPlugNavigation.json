@@ -2354,7 +2354,7 @@
       }
     },
     {
-      "name": "思古",
+      "name": "思古new",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -2363,7 +2363,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.siguyy.net/search/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.siguyy.net/vodtype/navCate-navPage.html",
+        "nav_url": "https://www.siguyy.net/type/navCate-navPage.html",
         "cate_url": "https://www.siguyy.net/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "思古影视new",
         "kw": "wd",
