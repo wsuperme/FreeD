@@ -596,8 +596,8 @@
       "subMobileTitle": "高清无筛选",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.jpysvip.net/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://www.jpysvip.net/vodtype/navCate-navPage.html",
+        "search_url": "https://www.jpys.me/vodsearch/-------------.html?wd={kw}",
+        "nav_url": "https://www.jpys.me/vodtype/navCate-navPage.html",
         "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
         "web_name": "极品",
         "kw": "wd",
